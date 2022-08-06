@@ -25,7 +25,7 @@ body {
 .main-container {
   background-color: var(--white);
   margin: 0 auto;
-  margin-top: 2em;
+  margin-top: 5em;
   margin-bottom: 2em;
   border-radius: 16px;
   width: 450px;
@@ -121,6 +121,7 @@ button:hover {
 @media screen and (min-width: 1440px) {
   .main-container {
     display: flex;
+    margin-top:  12em;
     width: 760px;
   height:  450px;
   }
